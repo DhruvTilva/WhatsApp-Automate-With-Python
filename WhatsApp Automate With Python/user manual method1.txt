@@ -1,0 +1,15 @@
+step=1  here first step is to daunload the python on your pc
+step=2  pip install pywhatkit
+step=3  then create the one python file that contain the source code here file is (automate wattshapp.py)
+step=4  then first simply import the pywhatkit
+step=5 then write the sourcecode here given .py file
+step=6 your entire mesg. history is also shown file "PyWhatKit_DB.txt"
+
+
+********************Enjoy and Annoying you freinds and make some fun*******************
+
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&  Author:Dhruv Tilva       &
+&  time:19:45  <6 Aug 2022> &
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&   
